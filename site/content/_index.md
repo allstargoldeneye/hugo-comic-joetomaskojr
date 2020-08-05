@@ -19,5 +19,5 @@ banner: /img/ffpiece.jpg
 				</div>
 			</div>
 		</div>
-</div>
+	</div>
 </section>
