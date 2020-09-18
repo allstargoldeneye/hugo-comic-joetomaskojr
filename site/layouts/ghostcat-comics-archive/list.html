@@ -14,16 +14,16 @@
 </main>
 <aside class="pin-top">
 	<div class="content">
-		<h2>Select a comic</h2>
+		<h2>Comic List</h2>
 		<div class="custom-select">
 			<select class="custom" onchange="location = this.value;">
-				<option value="" disabled selected>Select comic</option>
+				<option value="" disabled selected>Select a comic</option>
 				{{ range .Pages.ByPublishDate.Reverse }}
 				<option value="{{ .RelPermalink }}">{{ .Title }}</option>
 				{{ end }}
 			</select>
 		</div>
-		<h2>Search Comics</h2>
+		<h2>Search Comic Tags</h2>
 		{{ partial "search" .}}
 	</div>
 </aside>
