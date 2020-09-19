@@ -1,7 +1,7 @@
 ---
 title: Always Be Flossing
 date: 2019-06-17T12:00:51.435Z
-image: /img/ghostcat-comic-7-dentist.jpg
+image: /img/Living Art-comic-7-dentist.jpg
 tags:
   - Dentist
   - flossing

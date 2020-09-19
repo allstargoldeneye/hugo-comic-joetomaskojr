@@ -1,6 +1,6 @@
 {{ define "main" }}
 <main>
-{{ with .Site.GetPage "/ghostcat-comics-archive" }}
+{{ with .Site.GetPage "/livingart-comics-archive" }}
     {{ range first 1 .Pages }}
     	{{ partial "comic" . }}
     {{ end }}
@@ -20,10 +20,10 @@
 		</div>
 		<div class="flex-side">
 			<h2>Search Ghostcat Comics</h2>
-			{{ with .Site.GetPage "/ghostcat-comics-archive" }}
+			{{ with .Site.GetPage "/livingart-comics-archive" }}
 				{{ partial "search" . }}
 			{{ end }}
-			{{ with .Site.GetPage "/ghostcat-comics-archive" }}
+			{{ with .Site.GetPage "/livingart-comics-archive" }}
 		      {{ range first 1 .Pages}}
 		        <h2 class="sidebar-title">Latest Ghostcat Comic</h2>
 		        <a href="{{ .RelPermalink }}">
@@ -45,7 +45,7 @@
 	</div>
 	<h2>Recent comics</h2>
 	<div class="flex">
-		{{ with .Site.GetPage "/ghostcat-comics-archive" }}
+		{{ with .Site.GetPage "/livingart-comics-archive" }}
 		    {{ range first 4 .Pages }}
 		    	<article class="grid-4">
 		    		<a href="{{ .RelPermalink }}">
