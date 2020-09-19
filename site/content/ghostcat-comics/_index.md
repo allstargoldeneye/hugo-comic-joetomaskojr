@@ -1,5 +1,5 @@
 ---
-title: "Living Art Comics"
+title: "Ghostcat Comics"
 logo: /img/gc-logo-angle.png
-logolink: /livingart-comics
+logolink: /ghostcat-comics
 ---

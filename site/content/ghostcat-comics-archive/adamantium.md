@@ -1,7 +1,7 @@
 ---
 title: Adamantium
 date: 2019-05-30T12:00:00.000Z
-image: /img/Living Art-comic-2-adamantium.jpg
+image: /img/ghostcat-comic-2-adamantium.jpg
 tags:
   - Wolverine
   - Logan

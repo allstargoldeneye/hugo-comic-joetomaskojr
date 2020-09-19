@@ -23,9 +23,9 @@
 			{{ with .Site.GetPage "/hamlets-danish-comic" }}
 				{{ partial "search" . }}
 			{{ end }}
-			{{ with .Site.GetPage "/livingart-comics-archive" }}
+			{{ with .Site.GetPage "/ghostcat-comics-archive" }}
 		      {{ range first 1 .Pages}}
-		        <h2 class="sidebar-title">Latest Living Art Comic</h2>
+		        <h2 class="sidebar-title">Latest Ghostcat Comic</h2>
 		        <a href="{{ .RelPermalink }}">
 		        {{ if .Params.thumbnail }}
 		          <img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" />

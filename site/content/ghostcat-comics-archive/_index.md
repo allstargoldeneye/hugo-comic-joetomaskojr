@@ -1,6 +1,6 @@
 ---
-title: Living Art Comics Archives
+title: Ghostcat Comics Archives
 logo: /img/gc-logo-angle.png
-logolink: /livingart-comics
+logolink: /ghostcat-comics
 ---
 

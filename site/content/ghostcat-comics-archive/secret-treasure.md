@@ -7,7 +7,7 @@ tags:
   - knight
   - treasure
   - MLM
-image: /img/Living Art-comic-1-secret-treasure.jpg
+image: /img/ghostcat-comic-1-secret-treasure.jpg
 ---
 
 Confession time: I worked for Cutco for a summer in college, and it was absolutely soul-crushing. I still have the knives, though. They're actually pretty nice, which is how they *get you*.

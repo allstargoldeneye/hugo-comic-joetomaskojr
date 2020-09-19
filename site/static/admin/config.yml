@@ -33,9 +33,9 @@ collections: # A list of collections the CMS should be able to edit
         name: tags
         widget: list
         required: false
-  - name: "livingart-comics-archive" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Living Art Comics" # Used in the UI, ie.: "New Post"
-    folder: "site/content/livingart-comics-archive" # The path to the folder where the documents are stored
+  - name: "ghostcat-comics-archive" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Ghostcat Comics" # Used in the UI, ie.: "New Post"
+    folder: "site/content/ghostcat-comics-archive" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
@@ -137,9 +137,9 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Logo, name: logo, widget: image}
-      - file: "site/content/livingart-comics/_index.md"
-        label: "Living Art Comics Page"
-        name: "livingart-comics"
+      - file: "site/content/ghostcat-comics/_index.md"
+        label: "Ghostcat Comics Page"
+        name: "ghostcat-comics"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Logo, name: logo, widget: image}

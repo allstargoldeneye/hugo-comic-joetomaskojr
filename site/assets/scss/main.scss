@@ -66,7 +66,7 @@ body{
 	margin:0px;
 	max-width:$contentWidth;
 	margin:0px auto;
-	&[class*="Living Art-comic"]{
+	&[class*="ghostcat-comic"]{
 		.comic img{
 			width:600px!important;
 		}
@@ -182,7 +182,7 @@ body{
 	}
 	
 }
-.livingart-comics .logo,.livingart-comics-archive .logo{
+.ghostcat-comics .logo,.ghostcat-comics-archive .logo{
 	background-image:url(/img/gc-logo-transparent.png)!important;
 }
 .hamlets-danish .logo,.hamlets-danish-comic .logo{

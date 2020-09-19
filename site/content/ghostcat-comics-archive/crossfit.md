@@ -1,7 +1,7 @@
 ---
 title: Crossfit
 date: 2019-06-06T12:01:00.000Z
-image: /img/Living Art-comic-4-crossfit.jpg
+image: /img/ghostcat-comic-4-crossfit.jpg
 tags:
   - fight club
   - workout

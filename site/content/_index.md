@@ -13,7 +13,7 @@ banner: /img/ffpiece.jpg
 					<h2>Welcome to my site</h2>
 
 					<p>Hi! This is my personal website. If you are here, you probably want to check out one of these comics:</p>
-					<a href="/livingart-comics" class="btn">Living Art Comics</a><br>
+					<a href="/ghostcat-comics" class="btn">Ghostcat Comics</a><br>
 					<a href="/hamlets-danish" class="btn">Hamlet's Danish</a><br>
 					<a href="/raecomic" class="btn">Rob and Elliot</a><br>
 				</div>
